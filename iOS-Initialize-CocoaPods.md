@@ -26,7 +26,7 @@ pod install
 ```
 ---
 
-### XCode Project
+### How to build
 
 There should be **{{nameOfProject}}.xcodeproj** directory should exist when creating a project from react-native-cli. 
 
