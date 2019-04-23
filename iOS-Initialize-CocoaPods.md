@@ -1,6 +1,3 @@
-
-# CocoaPods
-
 Use CocoaPods for managing the ios dependencies
 
 ---
