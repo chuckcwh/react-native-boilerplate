@@ -1,2 +1,3 @@
-[[Initialize CocoaPods]]
-[[Apple Developer]]
+* [[Initialize CocoaPods]]
+
+* [[Apple Developer]]
