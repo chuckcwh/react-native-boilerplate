@@ -1,32 +1,31 @@
-## 1. Change the name of the Project
+## 1. Change the name & package name of the Project
 
-``todo``
+```bash
+# change the app name & package name
+node scripts/initialize/index.js NewAppName com.plus65.NewAppName
+```
 
-## 2. Change the package name of the Project
-
-``todo`` 
-
-## 3. Firebase Setup
-
-``todo`` 
-
-## 4. Apple Setup
+## 2. Firebase Setup
 
 ``todo`` 
 
-## 5. Android Setup
+## 3. Apple Setup
 
 ``todo`` 
 
-## 6. CodePush Setup
+## 4. Android Setup
 
 ``todo`` 
 
-## 7. Fabric.io - Beta App Setup
+## 5. CodePush Setup
 
 ``todo`` 
 
-## 6. Extra
+## 6. Fabric.io - Beta App Setup
+
+``todo`` 
+
+## 7. Extra
 
 * Mapbox
 * Codepush Deploy Script
