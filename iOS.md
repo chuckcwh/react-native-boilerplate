@@ -1,7 +1,7 @@
-* [[Initialize CocoaPods]]
+* [[iOS - Initialize CocoaPods]]
 
-* [[Apple Developer]]
+* [[iOS - Apple Developer]]
 
-* [[Itunes Connect]]
+* [[iOS - Itunes Connect]]
 
-* [[Build - Xcode]]
+* [[iOS - Build(Xcode)]]
