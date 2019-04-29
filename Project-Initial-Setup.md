@@ -12,7 +12,7 @@ node scripts/initialize/index.js NewAppName com.plus65.NewAppName
 
 ## 2. Firebase Setup
 
-``todo`` 
+Please refer to this page [Firebase](Firebase).
 
 ## 3. Apple Setup
 
