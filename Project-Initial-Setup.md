@@ -14,7 +14,7 @@ node scripts/initialize/index.js NewAppName com.plus65.NewAppName
 
 [Firebase](Firebase)
 
-## 3. Apple Setup
+## 3. iOS Setup
 
 ``todo`` 
 
