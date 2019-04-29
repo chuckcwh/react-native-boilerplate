@@ -22,11 +22,11 @@
 
 ## Create Certificate for Push notification
 
-`` TODO ``
+Refer to this link [iOS Apple Developer](iOS Apple Developer)
 
-## Manage Certificate for Distribution
+## Manage Certificate for Development & Distribution 
 
-`` TODO ``
+Refer to this link [iOS Apple Developer](iOS Apple Developer)
 
 ## Appendix
 
