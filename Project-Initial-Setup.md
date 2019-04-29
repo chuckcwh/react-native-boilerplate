@@ -16,7 +16,7 @@ node scripts/initialize/index.js NewAppName com.plus65.NewAppName
 
 ## 3. iOS Setup
 
-``todo`` 
+[iOS](iOS)
 
 ## 4. Android Setup
 
