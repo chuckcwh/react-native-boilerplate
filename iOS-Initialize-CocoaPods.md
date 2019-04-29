@@ -2,19 +2,18 @@ Use CocoaPods for managing the ios dependencies
 
 ---
 
-### Installation 
+## Installation 
+
 ```
 sudo gem install cocoapods -v 1.5.3
 ```
 
----
+## Version
 
-### Version
 CocoaPod: 1.5.3
 
---- 
+## Initialize CocoaPod Project
 
-### Initialize CocoaPod Project
 ```bash
 cd ios && pod init 
 
@@ -24,9 +23,8 @@ vi Podfile
 #create Pod project
 pod install
 ```
----
 
-### How to build
+## How to build
 
 There should be **.xcodeproj** directory should exist when creating a project from react-native-cli. 
 
