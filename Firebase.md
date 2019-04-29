@@ -24,7 +24,7 @@ Firebase setup is required for the app to get some of the mobile features.
 5. Click Android
 6. **Input package name**
 7. Download **google-services.json**
-8. Place under ./android/google-services.json
+8. Place under **./android/google-services.json**
 
 ## iOS Setup
 
@@ -35,8 +35,8 @@ Firebase setup is required for the app to get some of the mobile features.
 5. Click iOS
 6. **Input Bundle ID**
 7. Download **GoogleService-Info.plist**
-8. Place under ./ios/GoogleService-Info.plist
+8. Place under **./ios/GoogleService-Info.plist**
 
 ## React Native Setup
 
-`` Todo ``
+`` TODO ``
