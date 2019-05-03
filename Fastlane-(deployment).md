@@ -5,7 +5,7 @@ Fastlane has various features;
 
 1. automated version bump
 2. build 
-3. deploy to [**playstore**, **beta app**, **itnesconnect**]
+3. deploy to [**playstore**, **beta app**, **itunes connect**]
 4. distribute to testers group
 5. ...
 
