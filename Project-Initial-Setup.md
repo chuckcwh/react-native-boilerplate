@@ -29,7 +29,7 @@ Please refer to this link for installing cocoapods [iOS - Initialize CocoaPods](
 
 ## 4. Android Setup
 
-``todo`` 
+[Android](Android)
 
 ## 5. CodePush Setup
 
