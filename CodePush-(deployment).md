@@ -15,15 +15,12 @@ npm install -g code-push-cli
 ## Create an app 
 
 1. Go to https://appcenter.ms
-2. Create App (ios, android) 
+2. Create an Organization
+3. Create App under the organization that created from step 2 (ios, android) 
 - should create different projects for each platform
-3. Copy the deployment key
-
-## Custom setting
-
-Create 3 different environments for each staging, uat, production.
-3 different keys will be generated and **these keys should be saved under config/codepush.js**
-
+4. From left menu, go to Distribute-Codepush.
+5. Generate environment (**Production**, **Staging**, **Uat**)
+4. Copy the deployment key, and save in the **config/codepush.js**
 
 ## Related Links
 
