@@ -26,6 +26,10 @@ This script does several steps;
 ```bash
 # Run the script
 node scripts/codepush.js --platform ios
+# or 
+yarn codepush-ios:staging
+yarn codepush-ios:staging
+codepush-android:staging
 ```
 
 # Useful Commands
