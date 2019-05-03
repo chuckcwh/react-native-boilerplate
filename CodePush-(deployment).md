@@ -34,7 +34,6 @@ node scripts/codepush.js --platform ios
 code-push login
 code-push whoami
 code-push logout
-
 code-push app list
 code-push deployment ls <appName> [--displayKeys|-k]
 ```
