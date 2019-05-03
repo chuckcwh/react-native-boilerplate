@@ -12,6 +12,33 @@ For those hotfixes or simple feature changes, this could be deployed by using **
 npm install -g code-push-cli
 ```
 
+## Custom scripts
+
+Please check the codepush script from script/codepush*.js
+This script does several steps;
+
+1. check branch
+2. check env from config/env.json
+3. check platform
+4. deploy by using codepush 
+5. add tag
+
+```bash
+# Run the script
+node scripts/codepush.js --platform ios
+```
+
+# Useful Commands
+
+```
+code-push login
+code-push whoami
+code-push logout
+
+code-push app list
+code-push deployment ls <appName> [--displayKeys|-k]
+```
+
 ## Create an app 
 
 1. Go to https://appcenter.ms
