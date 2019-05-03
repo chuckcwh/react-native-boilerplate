@@ -17,6 +17,9 @@ cd ios && pod install # cocoapods should be installed
 yarn ios
 ```
 
+Please refer to this link for installing cocoapods [iOS - Initialize CocoaPods](iOS-Initialize-CocoaPods).
+
+
 ## 2. Firebase Setup
 
 [Firebase](Firebase)
