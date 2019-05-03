@@ -28,8 +28,11 @@ This script does several steps;
 node scripts/codepush.js --platform ios
 # or 
 yarn codepush-ios:staging
-yarn codepush-ios:staging
-codepush-android:staging
+yarn codepush-ios:uat
+yarn codepush-ios:production
+yarn codepush-android:staging
+yarn codepush-android:uat
+yarn codepush-android:production
 ```
 
 # Useful Commands
