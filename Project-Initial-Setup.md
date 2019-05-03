@@ -8,6 +8,13 @@ node scripts/initialize/index.js NewAppName com.plus65.NewAppName
 # 1. change the name of the app by using grep & sed
 # 2. rename the file for ios/android by using find & mv
 # 3. rename package name by using grep & sed 
+
+# install libraries
+yarn install 
+cd ios && pod install # cocoapods should be installed 
+
+# run the app on ios
+yarn ios
 ```
 
 ## 2. Firebase Setup
