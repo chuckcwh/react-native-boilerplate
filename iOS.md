@@ -30,7 +30,7 @@ Refer to this link [iOS Apple Developer](iOS Apple Developer)
 
 ## Appendix
 
-* [[iOS - Initialize CocoaPods]]
+* (iOS - Initialize CocoaPods)[iOS-Initialize-CocoaPods]
 * [[iOS - Apple Developer]]
 * [[iOS - Itunes Connect]]
 * [[iOS - Build (Xcode)]]
