@@ -44,7 +44,6 @@ code-push deployment ls <appName> [--displayKeys|-k]
 1. Go to https://appcenter.ms
 2. Create an **Organization**
 3. Create **App** under the **organization** that created from step 2 (ios, android) 
-- should create different projects for each platform
 4. From left menu, go to **Distribute-CodePush**.
 5. Generate **environments** (**Production**, **Staging**, **Uat**)
 4. Copy the deployment key, and save in the **config/codepush.js**
