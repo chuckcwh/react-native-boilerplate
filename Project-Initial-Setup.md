@@ -24,7 +24,7 @@ node scripts/initialize/index.js NewAppName com.plus65.NewAppName
 
 ## 5. CodePush Setup
 
-``todo`` 
+[CodePush](CodePush-(deployment))
 
 ## 6. Fabric.io - Beta App Setup
 
