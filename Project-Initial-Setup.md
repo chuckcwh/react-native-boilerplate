@@ -39,9 +39,13 @@ Please refer to this link for installing cocoapods [iOS - Initialize CocoaPods](
 
 ``todo`` 
 
-## 7. Extra
+## 7. Change App Icon, Splash screen
+
+`` todo ``
+
+## 8. Extra
 
 * Mapbox
-* Codepush Deploy Script
 * Fastlane Deploy Script
 * Force Update
+
