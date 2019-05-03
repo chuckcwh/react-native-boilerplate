@@ -35,9 +35,9 @@ Please refer to this link for installing cocoapods [iOS - Initialize CocoaPods](
 
 [CodePush](CodePush-(deployment))
 
-## 6. Fabric.io - Beta App Setup
+## 6. Fastlane
 
-``todo`` 
+[Fastlane](Fastlane-(deployment))
 
 ## 7. Change App Icon, Splash screen
 
