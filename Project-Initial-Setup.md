@@ -2,12 +2,11 @@
 
 ```bash
 # change the app name & package name
-node scripts/initialize/index.js NewAppName com.plus65.NewAppName
-
-# The above script will do the following in sequence.
+# script does below steps
 # 1. change the name of the app by using grep & sed
 # 2. rename the file for ios/android by using find & mv
 # 3. rename package name by using grep & sed 
+node scripts/initialize/index.js NewAppName com.plus65.NewAppName
 
 # install libraries
 yarn install 
