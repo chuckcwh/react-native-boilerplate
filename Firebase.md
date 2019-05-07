@@ -53,7 +53,7 @@ For the official document, refer to [react-native firebase initial setup](https:
 5. Click iOS
 6. **Input Bundle ID**
 7. Download **GoogleService-Info.plist**
-8. Place under **./ios/GoogleService-Info.plist**
+8. Place under **./ios/{nameoftheapp}/GoogleService-Info.plist**
 
 ## React Native Setup
 
