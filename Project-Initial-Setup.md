@@ -41,7 +41,10 @@ Please refer to this link for installing cocoapods [iOS - Initialize CocoaPods](
 
 ## 7. Change App Icon, Splash screen
 
-`` todo ``
+1. Change the splash image from the src/images/splash.png
+2. Change the Splash Image from android/app/src/main/res/mipmap-xxx/launch_screen.png
+3. Change App Icon Image  from android/app/src/main/res/mipmap-xxx/ic_launcher.png
+4. Change Splash Image from ios/boilerplate/Base.Iproj/LaunchScreen.xib
 
 ## 8. Extra
 
