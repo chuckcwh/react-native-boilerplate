@@ -1,7 +1,7 @@
 ## Introduction
 
 Firebase setup is required for the app to get some of the mobile features.
-For the official document, refer to [initial setup](https://rnfirebase.io/docs/v5.x.x/installation/initial-setup)
+For the official document, refer to [react-native firebase initial setup](https://rnfirebase.io/docs/v5.x.x/installation/initial-setup)
 
 1. Push Notification 
 2. Analytics
