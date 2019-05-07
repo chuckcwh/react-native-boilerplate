@@ -48,6 +48,6 @@ Please refer to this link for installing cocoapods [iOS - Initialize CocoaPods](
 
 ## 8. Extra
 
-* Mapbox
-* Force Update
+* Mapbox 
+* Force Update (TODO)
 
