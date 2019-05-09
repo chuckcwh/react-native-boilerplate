@@ -1,12 +1,7 @@
 ## 1. Change the name & package name of the Project
 
 ```bash
-# change the app name & package name
-# script does below steps
-# 1. change the name of the app by using grep & sed
-# 2. rename the file for ios/android by using find & mv
-# 3. rename package name by using grep & sed 
-node scripts/initialize/index.js NewAppName com.plus65.NewAppName
+react-native-rename "Travel App" -b com.junedomingo.travelapp
 
 # install libraries
 yarn install 
